@@ -55,7 +55,7 @@
     </section>
     <footer>
       <hr>
-      <div>perhekalenteri by koodaaja</div>
+      <div>perhekalenteri by kooodaaja</div>
     </footer>
   </body>
 </html>
